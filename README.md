@@ -1,4 +1,4 @@
-MultiTTV
+mlti.tv
 ========
 
-Multiple Twitch live streams, on one page
+Easy management for multiple Twitch live streams
